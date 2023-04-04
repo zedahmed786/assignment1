@@ -1,0 +1,5 @@
+s1=input("Gross Income:")
+s2=input("No. of Dependents:")
+TI=float(float(v1)-10000-3000*float(v2))
+T=str(TI*20/100)
+print("Your Taxable Income is "+"$"+T) 
